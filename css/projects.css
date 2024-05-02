@@ -13,8 +13,8 @@
 .project-container {
     display: flex;
     flex-direction: column;
-
-    min-width: 535px;
+    align-items: center;
+    min-width: 623px;
     min-height: 750px;
     white-space: pre-line;
     border: 2px solid black;

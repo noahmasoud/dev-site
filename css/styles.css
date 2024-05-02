@@ -30,7 +30,7 @@ header {
     min-height: 7%;
     min-width: 100%;
 
-    background-color: rgb(221, 221, 251);
+    background-color: rgba(182, 240, 239, 0.36);
 
 }
 
@@ -41,7 +41,7 @@ main {
     min-height: 86%;
     min-width: 100%;
 
-    background: linear-gradient(-45deg, #6452ee, #b73ce7, #1e91bb, #32b395);
+    background: linear-gradient(-45deg, #5d906b, #3da1e8, #b8efac, #114018);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
 
@@ -58,7 +58,7 @@ footer {
     min-height: 7%;
     min-width: 100%;
 
-    background-color: rgb(221, 221, 251);
+    background-color: rgba(182, 240, 239, 0.36);
 }
 
 .fa {
