@@ -22,7 +22,8 @@
     overflow: hidden;
     flex-direction: row;
     white-space: nowrap;
-    font-size: 4rem;
+    padding-left: 35;
+    font-size: 3.5rem;
     width: 0;
     animation:
         typing .8s steps(12, end) forwards;
@@ -35,7 +36,7 @@
     margin: 1.5rem;
     justify-content: center;
     text-transform: none;
-    color: black;
+    color: rgb(0, 0, 0);
     white-space: pre-line;
 }
 
